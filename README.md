@@ -1,2 +1,2 @@
 # Testing
-Just to learn GIT
+Just to learn GIT and become a developer
